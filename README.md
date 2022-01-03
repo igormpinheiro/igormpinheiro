@@ -1,9 +1,12 @@
 ## Olá! Eu sou o Igor Pinheiro 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igormpinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormpinheiro&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;justify-content: space-around;">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=igormpinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormpinheiro&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
 </div>
+
 <!-- ## dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
   <div>
   <a href="https://github.com/igormpinheiro">
@@ -12,19 +15,21 @@
 </div>
 -->
 <hr />
-<div style="display: inline_block"><br>
 
-<img align="center" alt="igor-Js" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg'>
-<img align="center" alt="igor-Js" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>
-<img align="center" alt="igor-Js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="center" alt="igor-Js" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'>
-<img align="center" alt="igor-Js" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-<img align="center" alt="igor-Js" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-<img align="center" alt="igor-Js" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-<img align="center" alt="igor-Js" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-
+<div align="center">
+        <img align="center" alt="dotNet" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg'>
+        <img align="center" alt="Angular" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>
+        <img align="center" alt="VueJS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+        <img align="center" alt="VueJS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+        <img align="center" alt="Javascript" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'>
+        <img align="center" alt="Typescript" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+        <img align="center" alt="css" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+        <img align="center" alt="html5" width="60" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+        <img align="center" alt="html5" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+        <img align="center" alt="docker" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
+
+
 <hr />
   
 <!-- 
